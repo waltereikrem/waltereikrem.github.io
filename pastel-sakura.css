@@ -43,9 +43,9 @@
     --glasscord-titlebar: windows;
 }
 .theme-dark {
-    --accent-primary: rgba(128, 0, 98, 1.0);
-    --accent-secondary: rgba(153, 0, 117, 1.0);
-    --accent-tertiary: rgba(102, 0, 78, 1.0);
+    --accent-primary: rgb(255, 100, 219);
+    --accent-secondary: rgb(235, 82, 199);
+    --accent-tertiary: rgb(201, 52, 166);
     --green-primary: rgba(67, 181, 129);
     --green-secondary: rgba(97, 208, 154);
     --green-tertiary: rgba(32, 153, 103);
