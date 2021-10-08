@@ -139,7 +139,7 @@
     --accent-text-primary: rgba(255, 255, 255);
     --accent-text-secondary: rgba(255, 255, 255);
 }
-.theme-light {
+/* .theme-light {
     --accent-primary: rgb(255, 143, 229);
     --accent-secondary: rgb(214, 91, 185);
     --accent-tertiary: rgb(206, 79, 176);
@@ -232,4 +232,4 @@
     --stream-selected: rgba(62, 32, 124, var(--transparency-hover));
     --accent-text-primary: rgba(255, 255, 255);
     --accent-text-secondary: rgba(0, 0, 0);
-}
+} */
