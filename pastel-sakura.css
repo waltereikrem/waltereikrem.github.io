@@ -59,7 +59,7 @@
     --purple-secondary: rgb(177, 79, 144);
     --purple-tertiary: rgb(255, 109, 206);
     --background-primary: rgba(255, 199, 242, var(--transparency-primary));
-    --background-secondary: rgba(66, 38, 72, var(--transparency-secondary));
+    --background-secondary: rgba(255, 240, 252, var(--transparency-secondary));
     --background-tertiary: rgba(57, 29, 63, var(--transparency-tertiary));
     --background-secondary-alt: rgba(57, 29, 63, var(--transparency-tertiary));
     --background-accent: rgb(255, 60, 180);
@@ -75,7 +75,7 @@
     --background-message-hover: rgba(255, 0, 204, 0.4);
     --background-help-warning: rgb(255, 113, 222);
     --background-help-info: rgb(255, 92, 217);
-    --toast-background: rgba(66, 38, 72, var(--transparency-secondary));
+    --toast-background: rgba(255, 240, 252, var(--transparency-secondary));
     --toast-header: rgba(255, 199, 242, var(--transparency-primary));
     --toast-contents: rgba(57, 29, 63, var(--transparency-tertiary));
     --toast-border: var(--background-secondary);
