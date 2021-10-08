@@ -62,10 +62,10 @@
     --background-secondary: rgba(66, 38, 72, var(--transparency-secondary));
     --background-tertiary: rgba(57, 29, 63, var(--transparency-tertiary));
     --background-secondary-alt: rgba(57, 29, 63, var(--transparency-tertiary));
-    --background-accent: rgba(128, 0, 98);
+    --background-accent: rgb(207, 0, 159);
     --background-floating: rgba(57, 29, 63, var(--transparency-menu));
     --background-mobile-primary: rgba(75, 47, 81);
-    --background-mobile-secondary: rgba(66, 38, 72);
+    --background-mobile-secondary: rgb(180, 0, 165);
     --background-modifier-hover: rgba(153, 0, 117);
     --background-modifier-active: rgba(128, 0, 98);
     --background-modifier-selected: rgba(128, 0, 98);
@@ -84,13 +84,13 @@
     --header-secondary: rgba(167, 133, 173);
     --text-normal: rgba(194, 160, 200);
     --text-muted: rgba(140, 108, 146);
-    --text-link: rgba(128, 0, 98);
+    --text-link: rgb(243, 154, 222);
     --channels-default: rgba(167, 133, 173);
     --interactive-normal: rgba(194, 160, 200);
     --interactive-hover: rgba(255, 255, 255);
     --interactive-active: rgba(255, 255, 255);
     --interactive-muted: rgba(140, 108, 146);
-    --spotify-color: rgba(128, 0, 98);
+    --spotify-color: rgba(243, 154, 222);
     --scrollbar-thin-thumb: rgba(75, 47, 81);
     --scrollbar-thin-track: rgba(57, 29, 63);
     --scrollbar-auto-thumb: rgba(75, 47, 81);
